@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "082b75e1c67ca0ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autocad/入门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a860a87443aeb79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试问题总结/01 面试经验.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a63dc5c2cf519e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题总结/按照公司分类/经纬恒润.md",
+                "file": "面试问题总结/C语言面试题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f048aa5ad027fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI1302语言模块/指导说明.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试问题总结/01 面试经验.md",
+                "file": "面试问题总结/C语言面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试问题总结/01 面试经验.md",
+                "file": "面试问题总结/C语言面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试问题总结/01 面试经验.md"
+                "file": "面试问题总结/C语言面试题.md"
               }
             }
           },
@@ -167,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a860a87443aeb79",
+  "active": "4a63dc5c2cf519e3",
   "lastOpenFiles": [
-    "面试问题总结/三极管.md",
-    "面试问题总结/C语言面试题.md",
-    "面试问题总结/按照公司分类/经纬恒润.md",
-    "Autocad/入门.md",
     "面试问题总结/微创材料/01.md",
-    "01 Plan.md",
-    "3D建模/Introduction.md",
-    "招聘.md",
-    "面试问题总结/SPI.md",
-    "面试问题总结/微创材料/02.md"
+    "面试问题总结/01 面试经验.md",
+    "CI1302语言模块/指导说明.md",
+    "面试问题总结/C语言面试题.md",
+    "Autocad/入门.md",
+    "面试问题总结/按照公司分类/经纬恒润.md",
+    "面试问题总结/三极管.md",
+    "面试问题总结/微创材料/02.md",
+    "面试问题总结/按照公司分类/上海微电子.md",
+    "面试问题总结/上海.md"
   ]
 }
