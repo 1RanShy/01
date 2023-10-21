@@ -2,9 +2,9 @@
   "accentColor": "#6bef93",
   "cssTheme": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "楷体",
-  "textFontFamily": "楷体,Arial",
-  "monospaceFontFamily": "楷体",
+  "interfaceFontFamily": "Georgia",
+  "textFontFamily": "Georgia",
+  "monospaceFontFamily": "Georgia",
   "baseFontSize": 18,
   "baseFontSizeAction": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "健身/健身.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#如何导通",
+                "query": "tag:#如何正确使用臂力棒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "健身/健身.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "健身/健身.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/01 Plan.md"
+                "file": "健身/健身.md"
               }
             }
           },
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +177,15 @@
   },
   "active": "9eaad155e9fe966c",
   "lastOpenFiles": [
+    "健身/assets/Pasted image 20231020205847.png",
+    "健身/assets",
+    "嵌入式面试/01 Plan.md",
+    "健身/健身.md",
+    "健身",
     "嵌入式面试/02 模电.md",
     "嵌入式面试/三极管.md",
     "嵌入式面试/assets/Pasted image 20231020094238.png",
     "嵌入式面试/assets/Pasted image 20231020093753.png",
-    "嵌入式面试/01 Plan.md",
     "嵌入式面试/02 数电.md",
     "嵌入式面试/assets/Pasted image 20231019101936.png",
     "嵌入式面试/02 面试可能的问题.md",
