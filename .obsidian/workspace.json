@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonts.md",
+                "file": "嵌入式面试/02 PIC单片机.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonts.md",
+                "file": "嵌入式面试/02 PIC单片机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonts.md",
+                "file": "嵌入式面试/02 PIC单片机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonts.md"
+                "file": "嵌入式面试/02 PIC单片机.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:Create new canvas": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -190,36 +190,15 @@
   },
   "active": "58bfaf6b8c27f95e",
   "lastOpenFiles": [
+    "嵌入式面试/02 C语言面试题.md",
+    "嵌入式面试/02 面试可能的问题.md",
+    "CI1302语言模块/指导说明.md",
+    "Fonts.md",
+    "01 Plan.md",
+    "微芯面试.md",
     "assets/截图_20230916162911.png",
     "assets/截图_20230916162829.png",
     "assets/截图_20230821081449.png",
-    "assets/截图_20230821074115.png",
-    "assets/截图_20230821074025.png",
-    "assets/05e11ed821ef96c9d3fd8b24354b10e.jpg",
-    "Fonts.md",
-    "assets/DuanNingYingBiKaiShuCuTi-2.ttf",
-    "健身/健身.md",
-    "健身/assets/Pasted image 20231020205847.png",
-    "健身/assets",
-    "嵌入式面试/01 Plan.md",
-    "健身",
-    "嵌入式面试/02 模电.md",
-    "嵌入式面试/三极管.md",
-    "嵌入式面试/assets/Pasted image 20231020094238.png",
-    "嵌入式面试/assets/Pasted image 20231020093753.png",
-    "嵌入式面试/02 数电.md",
-    "嵌入式面试/assets/Pasted image 20231019101936.png",
-    "嵌入式面试/02 面试可能的问题.md",
-    "01 Plan.md",
-    "嵌入式面试/02 PIC单片机.md",
-    "嵌入式面试/02 C语言基础.md",
-    "嵌入式面试/02 C语言面试题.md",
-    "嵌入式面试/IIC.md",
-    "嵌入式面试/SPI.md",
-    "微芯面试.md",
-    "CI1302语言模块/指导说明.md",
-    "面试问题总结/三极管.md",
-    "面试问题总结/C语言面试题.md",
-    "面试问题总结/DSP.md"
+    "assets/截图_20230821074115.png"
   ]
 }
