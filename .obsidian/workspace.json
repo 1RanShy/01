@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6eddef049840b62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健身/健身.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f048aa5ad027fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI1302语言模块/指导说明.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58bfaf6b8c27f95e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autocad/入门.md",
+                "file": "微芯面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a7c7af2358d8026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式面试/01 Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#如何正确使用臂力棒",
+                "query": "cmos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autocad/入门.md",
+                "file": "嵌入式面试/01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autocad/入门.md",
+                "file": "嵌入式面试/01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autocad/入门.md"
+                "file": "嵌入式面试/01 Plan.md"
               }
             }
           },
@@ -188,17 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58bfaf6b8c27f95e",
+  "active": "4a7c7af2358d8026",
   "lastOpenFiles": [
+    "嵌入式面试/三极管.md",
     "嵌入式面试/02 PIC单片机.md",
+    "嵌入式面试/02 模电.md",
+    "特斯拉充电桩.md",
+    "微芯面试.md",
+    "Fonts.md",
+    "Autocad/入门.md",
     "嵌入式面试/02 C语言面试题.md",
     "嵌入式面试/02 面试可能的问题.md",
-    "CI1302语言模块/指导说明.md",
-    "Fonts.md",
-    "01 Plan.md",
-    "微芯面试.md",
-    "assets/截图_20230916162911.png",
-    "assets/截图_20230916162829.png",
-    "assets/截图_20230821081449.png"
+    "CI1302语言模块/指导说明.md"
   ]
 }
