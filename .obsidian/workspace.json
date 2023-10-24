@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "58bfaf6b8c27f95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微芯面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a7c7af2358d8026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "100c944592ca4bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "特斯拉充电桩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0a68841241e320b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 今天学了什么.md",
+                "file": "嵌入式面试/01 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "cmos",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "特斯拉充电桩.md",
+                "file": "嵌入式面试/01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "特斯拉充电桩.md",
+                "file": "嵌入式面试/01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "特斯拉充电桩.md"
+                "file": "嵌入式面试/01 Plan.md"
               }
             }
           },
@@ -179,7 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -188,17 +177,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "100c944592ca4bc7",
+  "active": "4a7c7af2358d8026",
   "lastOpenFiles": [
-    "微芯面试.md",
-    "面试问题总结/PCB封装.md",
-    "面试问题总结/IIC.md",
-    "面试问题总结/DSP.md",
-    "面试问题总结/C语言面试题.md",
-    "面试问题总结/三极管.md",
-    "面试问题总结/01 面试经验.md",
-    "嵌入式面试/01 Plan.md",
     "面试.md",
-    "01 Plan.md"
+    "嵌入式面试/assets/数电经典面试题121问.pdf",
+    "嵌入式面试/assets/截图_20231024161115.png",
+    "嵌入式面试/assets/截图_20231024160820.png",
+    "嵌入式面试/assets/截图_20231024155951.png",
+    "嵌入式面试/assets/截图_20231024155905.png",
+    "嵌入式面试/assets/截图_20231024154151.png",
+    "嵌入式面试/assets/截图_20231024095104.png",
+    "嵌入式面试/assets/截图_20231023201445.png",
+    "嵌入式面试/assets/截图_20231023201358.png",
+    "嵌入式面试/assets/截图_20231023200741.png",
+    "嵌入式面试/assets/截图_20231023200547.png",
+    "嵌入式面试/assets/4-常见模电面试题库100题.pdf",
+    "嵌入式面试/assets/4-常见模电面试题库100题 1.pdf",
+    "01 今天学了什么.md",
+    "嵌入式面试/三极管.md",
+    "嵌入式面试/02 PIC单片机.md",
+    "嵌入式面试/02 模电.md",
+    "特斯拉充电桩.md",
+    "微芯面试.md",
+    "Fonts.md",
+    "Autocad/入门.md",
+    "嵌入式面试/02 C语言面试题.md",
+    "嵌入式面试/02 面试可能的问题.md",
+    "CI1302语言模块/指导说明.md"
   ]
 }
