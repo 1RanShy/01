@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "01 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/01 Plan.md",
+                "file": "01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/01 Plan.md"
+                "file": "01 Plan.md"
               }
             }
           },
@@ -164,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a7c7af2358d8026",
+  "active": "9eaad155e9fe966c",
   "lastOpenFiles": [
+    "01 今天学了什么.md",
+    "01 Plan.md",
+    "嵌入式面试/01 Plan.md",
     "面试.md",
     "嵌入式面试/assets/数电经典面试题121问.pdf",
     "嵌入式面试/assets/截图_20231024161115.png",
@@ -193,7 +196,6 @@
     "嵌入式面试/assets/截图_20231023200547.png",
     "嵌入式面试/assets/4-常见模电面试题库100题.pdf",
     "嵌入式面试/assets/4-常见模电面试题库100题 1.pdf",
-    "01 今天学了什么.md",
     "嵌入式面试/三极管.md",
     "嵌入式面试/02 PIC单片机.md",
     "嵌入式面试/02 模电.md",
