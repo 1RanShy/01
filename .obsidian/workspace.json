@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "4a7c7af2358d8026",
+            "id": "12a36ac7e9ae7d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式面试/02 C语言面试题.md",
+                "file": "01 Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cmos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/02 模电.md"
+                "file": "01 Plan.md"
               }
             }
           },
@@ -176,17 +177,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58bfaf6b8c27f95e",
+  "floating": {
+    "id": "06c46bf673cb1def",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8e3dc7338d8e60a0",
+        "type": "window",
+        "children": [
+          {
+            "id": "149e33190847a333",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a7c7af2358d8026",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "嵌入式面试/02 C语言面试题.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 560,
+        "y": 9,
+        "width": 605,
+        "height": 605,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "12a36ac7e9ae7d49",
   "lastOpenFiles": [
     "01 今天学了什么.md",
-    "面试问题总结/C语言面试题.md",
+    "嵌入式面试/02 模电.md",
     "01 Plan.md",
+    "嵌入式面试/02 C语言面试题.md",
+    "嵌入式面试/三极管.md",
+    "面试问题总结/C语言面试题.md",
     "微芯面试.md",
     "嵌入式面试/01 Plan.md",
     "面试.md",
-    "嵌入式面试/assets/数电经典面试题121问.pdf",
-    "嵌入式面试/assets/截图_20231024161115.png",
-    "嵌入式面试/assets/截图_20231024160820.png",
-    "嵌入式面试/assets/截图_20231024155951.png"
+    "嵌入式面试/assets/数电经典面试题121问.pdf"
   ]
 }
