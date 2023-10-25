@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题总结/C语言面试题.md",
+                "file": "嵌入式面试/02 模电.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试问题总结/C语言面试题.md",
+                "file": "嵌入式面试/02 模电.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试问题总结/C语言面试题.md",
+                "file": "嵌入式面试/02 模电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试问题总结/C语言面试题.md"
+                "file": "嵌入式面试/02 模电.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   },
   "active": "58bfaf6b8c27f95e",
   "lastOpenFiles": [
-    "01 Plan.md",
-    "面试问题总结/C语言面试题.md",
-    "微芯面试.md",
     "01 今天学了什么.md",
+    "面试问题总结/C语言面试题.md",
+    "01 Plan.md",
+    "微芯面试.md",
     "嵌入式面试/01 Plan.md",
     "面试.md",
     "嵌入式面试/assets/数电经典面试题121问.pdf",
