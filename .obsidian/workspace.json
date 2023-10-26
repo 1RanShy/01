@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 模电.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "电流源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 模电.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 模电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Plan.md"
+                "file": "嵌入式面试/02 模电.md"
               }
             }
           },
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,48 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "06c46bf673cb1def",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8e3dc7338d8e60a0",
-        "type": "window",
-        "children": [
-          {
-            "id": "149e33190847a333",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a7c7af2358d8026",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "嵌入式面试/02 C语言面试题.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 560,
-        "y": 9,
-        "width": 605,
-        "height": 605,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "12a36ac7e9ae7d49",
   "lastOpenFiles": [
+    "01 Plan.md",
     "01 今天学了什么.md",
     "嵌入式面试/02 模电.md",
-    "01 Plan.md",
     "嵌入式面试/02 C语言面试题.md",
     "嵌入式面试/三极管.md",
     "面试问题总结/C语言面试题.md",
