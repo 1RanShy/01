@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "01 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/02 模电.md"
+                "file": "01 Plan.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "58bfaf6b8c27f95e",
   "lastOpenFiles": [
+    "嵌入式面试/02 模电.md",
     "嵌入式面试/02 数电.md",
     "01 今天学了什么.md",
-    "嵌入式面试/02 模电.md",
     "微芯面试.md",
     "特斯拉充电桩.md",
     "01 Plan.md",
