@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58bfaf6b8c27f95e",
+            "id": "1ed5041e10882399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 微芯.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195e92be6086c2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 今天学了什么.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Plan.md",
+                "file": "01 今天学了什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Plan.md",
+                "file": "01 今天学了什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Plan.md"
+                "file": "01 今天学了什么.md"
               }
             }
           },
@@ -154,7 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -163,14 +176,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58bfaf6b8c27f95e",
+  "active": "195e92be6086c2b6",
   "lastOpenFiles": [
+    "嵌入式面试/02 微芯.md",
+    "嵌入式面试/assets/Pasted image 20231028203647.png",
+    "嵌入式面试/assets/Pasted image 20231028184808.png",
+    "嵌入式面试/assets/Pasted image 20231028184432.png",
+    "嵌入式面试/assets/Pasted image 20231028183604.png",
+    "01 今天学了什么.md",
+    "嵌入式面试/assets/Pasted image 20231028175837.png",
+    "微芯面试.md",
+    "经纬恒润PPT.md",
+    "面试.md",
+    "01 Plan.md",
     "嵌入式面试/02 模电.md",
     "嵌入式面试/02 数电.md",
-    "01 今天学了什么.md",
-    "微芯面试.md",
     "特斯拉充电桩.md",
-    "01 Plan.md",
     "嵌入式面试/02 C语言面试题.md",
     "嵌入式面试/三极管.md",
     "面试问题总结/C语言面试题.md",
