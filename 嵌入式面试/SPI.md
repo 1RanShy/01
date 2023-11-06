@@ -11,4 +11,8 @@
 
 ![](assets/截图_20231004141244.png)
 
-![](assets/Pasted%20image%2020231004141409.png)
+[关于SPI协议，看这一篇文章就够了！-电子工程专辑](https://www.eet-china.com/mp/a63094.html)
+
+![](assets/Pasted%20image%2020231104155258.png)
+
+![](assets/Pasted%20image%2020231104155313.png)

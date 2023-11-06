@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 模电.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13a56af51d234975",
+            "id": "5b5da0c1b1de250b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题总结/IIC.md",
+                "file": "嵌入式面试/02 操作系统面试题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CMOS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 操作系统面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Plan.md",
+                "file": "嵌入式面试/02 操作系统面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Plan.md"
+                "file": "嵌入式面试/02 操作系统面试题.md"
               }
             }
           },
@@ -166,7 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:Create new canvas": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -175,42 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aab05197dceb6fd",
+  "active": "5b5da0c1b1de250b",
   "lastOpenFiles": [
-    "嵌入式面试/SPI.md",
-    "嵌入式面试/02 数电.md",
-    "嵌入式面试/02 模电.md",
-    "嵌入式面试/02 面试可能的问题.md",
-    "嵌入式面试/02 操作系统面试题.md",
-    "嵌入式面试/01 Plan.md",
-    "特斯拉充电桩.md",
-    "微芯面试.md",
-    "面试.md",
-    "经纬恒润PPT.md",
-    "面试问题总结/IIC.md",
-    "未命名 1.md",
-    "面试问题总结/DSP.md",
-    "面试问题总结/PCB封装.md",
-    "面试问题总结/SPI.md",
-    "01 Plan.md",
-    "嵌入式面试/02 微芯.md",
-    "01 今天学了什么.md",
-    "嵌入式面试/IIC.md",
-    "assets/Pasted image 20231031031005.png",
-    "assets/Pasted image 20231031132706.png",
-    "assets/Pasted image 20231101094541.png",
-    "assets/Pasted image 20231101095548.png",
-    "assets/Pasted image 20231101102134.png",
-    "assets/Pasted image 20231101102406.png",
-    "assets/Pasted image 20231101102718.png",
-    "assets/Pasted image 20231101103148.png",
-    "assets/截图_20230821081449.png",
-    "assets/截图_20230821074115.png",
-    "未命名.canvas",
-    "未命名.md",
-    "嵌入式面试/assets/16-常见操作系统面试题库65题.pdf",
-    "嵌入式面试/02 C语言面试题.md",
     "嵌入式面试/三极管.md",
-    "面试问题总结/C语言面试题.md"
+    "嵌入式面试/02 PIC单片机.md",
+    "嵌入式面试/02 微芯.md",
+    "嵌入式面试/02 C语言基础.md",
+    "嵌入式面试/02 C语言面试题.md",
+    "嵌入式面试/02 模电.md",
+    "C.md",
+    "嵌入式面试/02 数电.md",
+    "嵌入式面试/01 Plan.md",
+    "01 Plan.md"
   ]
 }
